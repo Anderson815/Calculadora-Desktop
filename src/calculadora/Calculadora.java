@@ -6,7 +6,7 @@
 package calculadora;
 
 /**
- *
+ * Essa classe é a interface da calculadora
  * @author ander
  */
 public class Calculadora extends javax.swing.JFrame {
