@@ -11,8 +11,11 @@ Com base nos sistema de calculadora da Microsoft, resolvi tentar fazer algo seme
   <li>Subtrair</li>
   <li>Multiplicar</li>
   <li>Dividir</li>
+  <li>Apagar expressão</li>
+  <li>Apagar número que seria inserido na expressão</li>
+  <li>Apagar um caractere do número que seria inserido na expressão</li>
 </ul>
-<video src="Midia/calculo.mp4" controls></video>
+<img src="Midia/calculo.gif">
 
 <h2>:package: Requisitos</h2>
 <p>Apenas do JAVA versão 8 ou superior instalando no seu computador, você pode baixar <a href="https://www.java.com/pt-BR/">clicando aqui</a></p>
